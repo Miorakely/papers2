@@ -1,8 +1,9 @@
 # Authors
 Gerard Capes
+John Smith 
 
 # Title
-Biomass burning aerosol over West Africa
+Simulations of biomass burning aerosol over West Africa
 
 # Introduction
 We acknowledge the ground breaking work of Allen et al but they 
