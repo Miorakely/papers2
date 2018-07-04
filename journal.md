@@ -6,4 +6,6 @@ Biomass burning aerosol over West Africa
 
 # Introduction
 We acknowledge the ground breaking work of Allen et al but they 
-have not answered the question of the secondary formation. 
+have not answered the question of the secondary particle formation. 
+
+Allen et al describe the Aerosol Mass Spectrometer in their 2004 paper.
